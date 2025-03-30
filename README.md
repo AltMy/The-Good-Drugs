@@ -10,3 +10,4 @@ Back end (handling user input on the website): server.js
 
 serviceAccountKey came from firebase on google cloud console
 
+other 2 jsfon files from node
